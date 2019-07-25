@@ -1,0 +1,16 @@
+PODS:
+  - ZJNet (0.1.0)
+
+DEPENDENCIES:
+  - ZJNet (from `../`)
+
+EXTERNAL SOURCES:
+  ZJNet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJNet: 147452ca9cdc7ae1e8168a24d0901f25d880d6f8
+
+PODFILE CHECKSUM: 2d381bfb81dfbcb6b734c89c3744e6ba6fae2c89
+
+COCOAPODS: 1.7.4
