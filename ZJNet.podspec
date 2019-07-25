@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ZJNet'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ZJNet.'
+  s.summary          = 'just 11'
   s.description      = 'Add long description of the pod here.'
 
   s.homepage         = 'https://github.com/oyxc/ZJNet'
